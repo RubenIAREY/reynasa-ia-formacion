@@ -1,5 +1,5 @@
 {
-"sal": "jyPtsVLBhYXktY1pXRGBlA==",
+"sal": "hZnVMtmlUif+vMHIfstV0w==",
 "iter": 310000,
 "doc": "d/0.bin",
 "medios": [
@@ -24,113 +24,123 @@
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v3/metro-blog.jpg",
+"ruta": "media/v/comerciales.jpg",
 "f": "d/5.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/logo-reynasa.png",
+"ruta": "media/v/comerciales.mp4",
 "f": "d/6.bin",
-"t": "image/png"
+"t": "video/mp4"
 },
 {
-"ruta": "media/panel/global.jpg",
+"ruta": "media/v3/metro-blog.jpg",
 "f": "d/7.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/extension.jpg",
+"ruta": "media/logo-reynasa.png",
 "f": "d/8.bin",
+"t": "image/png"
+},
+{
+"ruta": "media/panel/global.jpg",
+"f": "d/9.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/extension.mp4",
-"f": "d/9.bin",
-"t": "video/mp4"
-},
-{
-"ruta": "media/cc/A-flujo.jpg",
+"ruta": "media/v/extension.jpg",
 "f": "d/10.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/cc/D-flujo.jpg",
+"ruta": "media/v/extension.mp4",
 "f": "d/11.bin",
-"t": "image/jpeg"
+"t": "video/mp4"
 },
 {
-"ruta": "media/v/nextshop.jpg",
+"ruta": "media/cc/A-flujo.jpg",
 "f": "d/12.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/nextshop.mp4",
+"ruta": "media/cc/D-flujo.jpg",
 "f": "d/13.bin",
-"t": "video/mp4"
+"t": "image/jpeg"
 },
 {
-"ruta": "media/v/hugo_ns.jpg",
+"ruta": "media/v/nextshop.jpg",
 "f": "d/14.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/hugo_ns.mp4",
+"ruta": "media/v/nextshop.mp4",
 "f": "d/15.bin",
 "t": "video/mp4"
 },
 {
-"ruta": "media/v/skill1.jpg",
+"ruta": "media/v/hugo_ns.jpg",
 "f": "d/16.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/skill1.mp4",
+"ruta": "media/v/hugo_ns.mp4",
 "f": "d/17.bin",
 "t": "video/mp4"
 },
 {
-"ruta": "media/v/skill2.jpg",
+"ruta": "media/v/skill1.jpg",
 "f": "d/18.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/skill2.mp4",
+"ruta": "media/v/skill1.mp4",
 "f": "d/19.bin",
 "t": "video/mp4"
 },
 {
-"ruta": "media/portada.jpg",
+"ruta": "media/v/skill2.jpg",
 "f": "d/20.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/fact1.jpg",
+"ruta": "media/v/skill2.mp4",
 "f": "d/21.bin",
-"t": "image/jpeg"
-},
-{
-"ruta": "media/v/fact1.mp4",
-"f": "d/22.bin",
 "t": "video/mp4"
 },
 {
-"ruta": "media/v/fact2.jpg",
+"ruta": "media/portada.jpg",
+"f": "d/22.bin",
+"t": "image/jpeg"
+},
+{
+"ruta": "media/v/fact1.jpg",
 "f": "d/23.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/fact2.mp4",
+"ruta": "media/v/fact1.mp4",
 "f": "d/24.bin",
 "t": "video/mp4"
 },
 {
-"ruta": "media/v/code.jpg",
+"ruta": "media/v/fact2.jpg",
 "f": "d/25.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/code.mp4",
+"ruta": "media/v/fact2.mp4",
 "f": "d/26.bin",
+"t": "video/mp4"
+},
+{
+"ruta": "media/v/code.jpg",
+"f": "d/27.bin",
+"t": "image/jpeg"
+},
+{
+"ruta": "media/v/code.mp4",
+"f": "d/28.bin",
 "t": "video/mp4"
 }
 ]
