@@ -1,5 +1,5 @@
 {
-"sal": "8OjBEg5L0KnDQgx2RUZg6A==",
+"sal": "CFvJzl4wGX4Z4CGcy+dJGA==",
 "iter": 310000,
 "doc": "d/0.bin",
 "medios": [
@@ -69,58 +69,48 @@
 "t": "video/mp4"
 },
 {
-"ruta": "media/v3/bateria.jpg",
+"ruta": "media/v/hugo_ns.jpg",
 "f": "d/14.bin",
 "t": "image/jpeg"
 },
 {
-"ruta": "media/v/hugo_ns.jpg",
-"f": "d/15.bin",
-"t": "image/jpeg"
-},
-{
 "ruta": "media/v/hugo_ns.mp4",
-"f": "d/16.bin",
+"f": "d/15.bin",
 "t": "video/mp4"
 },
 {
 "ruta": "media/v/skill1.jpg",
-"f": "d/17.bin",
+"f": "d/16.bin",
 "t": "image/jpeg"
 },
 {
 "ruta": "media/v/skill1.mp4",
-"f": "d/18.bin",
+"f": "d/17.bin",
 "t": "video/mp4"
 },
 {
 "ruta": "media/v/skill2.jpg",
-"f": "d/19.bin",
+"f": "d/18.bin",
 "t": "image/jpeg"
 },
 {
 "ruta": "media/v/skill2.mp4",
-"f": "d/20.bin",
+"f": "d/19.bin",
 "t": "video/mp4"
 },
 {
-"ruta": "media/v3/turbo.jpg",
-"f": "d/21.bin",
-"t": "image/jpeg"
-},
-{
 "ruta": "media/portada.jpg",
-"f": "d/22.bin",
+"f": "d/20.bin",
 "t": "image/jpeg"
 },
 {
 "ruta": "media/v/code.jpg",
-"f": "d/23.bin",
+"f": "d/21.bin",
 "t": "image/jpeg"
 },
 {
 "ruta": "media/v/code.mp4",
-"f": "d/24.bin",
+"f": "d/22.bin",
 "t": "video/mp4"
 }
 ]
